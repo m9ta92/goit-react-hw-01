@@ -1,0 +1,20 @@
+.table {
+    margin: auto;
+}
+
+.table_list {
+    gap: 5px;
+    background-color: rgb(41, 35, 35);
+    color: white;
+}
+
+.table_list_item {
+    width: 150px;
+    padding: 5px 0 5px 0;
+}
+
+.abc {
+    padding: 5px 0 5px 0px;
+    text-align: center;
+    background-color: gainsboro;
+}
